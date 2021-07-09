@@ -1,0 +1,17 @@
+{
+"name": "com.YICHITO.universalframework",
+
+"displayName": "universal framework",
+
+"description": "universal framework",
+
+"version": "1.0.0",
+
+"unity": "2020.3.4",
+
+"license": "Apache",
+
+"dependencies": {
+}
+
+}
